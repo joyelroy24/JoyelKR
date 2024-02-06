@@ -1001,6 +1001,11 @@ body.offcanvas {
       transform: translate3d(0, 15px, 0); }
       .project .desc span a {
         color: #000; }
+
+
+
+
+
     @media screen and (max-width: 768px) {
       .project .desc {
         opacity: 1;
@@ -1021,6 +1026,11 @@ body.offcanvas {
     .project:hover .desc span {
       -webkit-transform: translate3d(0, 0, 0);
       transform: translate3d(0, 0, 0); }
+
+
+
+
+      
 
 .btn-load-more {
   width: 100%; }
